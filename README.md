@@ -21,7 +21,7 @@ Just take a quick look at OTAI manual (eg. attenuator) by the following command:
 
     firefox html/group__SAIEXPERIMENTALOTAIATTENUATOR.html
 
-    ![avatar][doge]
+![avatar][doge]
 
 You'll see the new created files of saimetadata.h and saimetadata.c. Some OTAI object examples are shown below:
 
